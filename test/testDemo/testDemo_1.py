@@ -4,4 +4,4 @@ browser = webdriver.Firefox()
 browser.get("http://www.baidu.com")
 browser.find_element_by_id("kw").send_keys("network")
 browser.find_element_by_id("su").click()
-browser.quit()
+browser.quit()#wewewe
